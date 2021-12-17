@@ -23,6 +23,7 @@ env:
   ATHLETE: Jingchang Shi
   TITLE: Jingchang Running
   TITLE_GRID: Over 10km Runs
+  MIN_GRID_DISTANCE: 1 # change min distance here
   GITHUB_NAME: jingchangshi
   GITHUB_EMAIL: jingchangshi@gmail.com
 
