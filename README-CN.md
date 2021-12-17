@@ -43,6 +43,9 @@ R.I.P. 希望大家都能健康顺利的跑过终点，逝者安息。
 | [MFYDev](https://github.com/MFYDev)             | https://mfydev.run                         | Garmin-cn |
 | [Jim Gao](https://github.com/tianheg)             | https://run.yidajiabei.xyz/ | Keep |
 | [Oysmart](https://github.com/oysmart)             | https://run.ouyang.wang                  | Garmin-cn |
+| [Eished](https://github.com/eished)             | https://run.iknow.fun                      | Keep      |
+| [Liuxin](https://github.com/liuxindtc)             | https://liuxin.run                   |  Nike      |
+
 ## 它是怎么工作的
 
 ![image](https://user-images.githubusercontent.com/15976103/105784027-e1ad9900-5fb2-11eb-9479-372be21482f1.png)
@@ -86,7 +89,7 @@ R.I.P. 希望大家都能健康顺利的跑过终点，逝者安息。
 git clone https://github.com/yihong0618/running_page.git
 ```
 
-## 安装及测试
+## 安装及测试 (node >= 12 and <= 14 python >= 3.6)
 
 ```
 pip3 install -r requirements.txt
@@ -548,6 +551,12 @@ Actions [源码](https://github.com/yihong0618/running_page/blob/master/.github/
 - @[geekplux](https://github.com/geekplux) 帮助及鼓励, 重构了前端代码，学到了不少
 - @[ben-29](https://github.com/ben-29) 搞定了咕咚，和我一起搞定了悦跑圈，太厉害了
 - @[MFYDev](https://github.com/MFYDev) Wiki
+
+# 推荐的 Forks
+
+- @[gongzili456](https://github.com/gongzili456) for [摩托车骑行版本](https://github.com/gongzili456/running_page)
+- @[ben-29](https://github.com/ben-29) for [多种运动类型支持](https://github.com/ben-29/workouts_page)
+- @[geekplux](https://github.com/geekplux) for [多种运动类型支持](https://github.com/geekplux/activities)
 
 # 赞赏
 
